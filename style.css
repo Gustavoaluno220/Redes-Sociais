@@ -5,3 +5,15 @@ body {
     height: 100vh;
     margin: 0;
 }
+
+header{
+    background-color: var(--primary-color);
+    text-aling: center;
+}
+
+h1 {
+    font-size: 2rem;
+    color: var(--bg-color);
+    font-weight: 700;
+}
+
